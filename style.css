@@ -407,3 +407,12 @@ header.shadow{
     padding: 4.4rem;
   }
 }
+
+.main{
+  padding-top: 7rem;
+}
+
+.nav.container{
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+}
